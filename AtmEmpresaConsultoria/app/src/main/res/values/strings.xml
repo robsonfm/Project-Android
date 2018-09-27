@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AtmEmpresaConsultoria</string>
+    <string name="empresa_detalhes">Sobre a Empresa</string>
+    <string name="servicos_detalhes">Serviços</string>
+    <string name="texto_consultoria">Consultoria</string>
+    <string name="texto_processos">Processos</string>
+    <string name="texto_acompanhameto_projetos">Acompanhamento e Projetos</string>
+    <string name="texto_clientes">Nossos Clientes</string>
+    <string name="texto_cliente_sys">Empresa de desenvolvimento de sistemas</string>
+    <string name="texto_cliente_rsm">Empresa de auditoria</string>
+    <string name="texto_contato">Contato</string>
+</resources>

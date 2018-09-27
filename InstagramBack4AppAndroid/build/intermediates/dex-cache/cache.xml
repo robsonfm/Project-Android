@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_4d857cdf5da0f69d708eef4946f5d9bc5663294d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_89e3a3062cc78a555a93e7a53d3b36883e192f25\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nosbor\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_0da0c1ba489b0badca5ed5842cc9371a8ef50921\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nosbor\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_c6a8b176314ed2bc2dfdcc04e1d625ab6c253159\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1f37f41dd81a90b0d36c757146d2e3b979586ef0">
+        <dex dex="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae5474cdaed9a4adc17219d74ae73f3be776d041\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="da459a2e6027eebed958b6874e3cdba7fd53c98b">
+        <dex dex="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e5ff1144c0b2d9c0328de68b1c546afc9215239\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_3cbfea7f5ba9a381c54b070a4123d348d14e64d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nosbor\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_4ccfd26fbaf4a3a927809dbb8886ab5c2fd5d194\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Nosbor\AndroidStudioProjects\InstagramBack4AppAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_0718eedc9a40dc55697c05ccbe74742c99d699c4\classes.dex" />
+    </item>
+
+</items>

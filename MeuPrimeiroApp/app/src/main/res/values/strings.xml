@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeuPrimeiroApp</string>
+    <string name="login">Login:</string>
+    <string name="manter_conectado">Manter Conectado</string>
+    <string name="senha">Senha:</string>
+    <string name="logar">Logar</string>
+    <string name="salvar">Salvar</string>
+</resources>
